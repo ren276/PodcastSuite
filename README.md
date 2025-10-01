@@ -1,6 +1,3 @@
-Sure! Here's the entire `README.md` file content in one block so you can copy and paste it directly:
-
----
 
 ```markdown
 # 🎙️ PodcastSuite
